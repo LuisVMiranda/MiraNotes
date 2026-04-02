@@ -109,7 +109,7 @@
   "dependencies": {
     "@ariakit/react": "^0.4.18",
     "@lexical/clipboard": "0.38.1",
-    "@lexical/headless": "0.38.1",
+    "@lexical/headless": "0.42.0",
     "@lexical/link": "0.38.1",
     "@lexical/list": "0.38.1",
     "@lexical/react": "0.38.1",
