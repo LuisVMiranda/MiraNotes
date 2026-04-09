@@ -22,7 +22,7 @@
     "babel-loader": "^9.1.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "prettier": "*",
-    "react": "^18.2.0",
+    "react": "^19.2.5",
     "react-dom": "^18.2.0",
     "ts-jest": "^29.0.3",
     "ts-loader": "^9.4.1",
