@@ -4988,13 +4988,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lexical/headless@npm:0.38.1":
-  version: 0.38.1
-  resolution: "@lexical/headless@npm:0.38.1"
+"@lexical/headless@npm:0.42.0":
+  version: 0.42.0
+  resolution: "@lexical/headless@npm:0.42.0"
   dependencies:
     happy-dom: ^20.0.0
-    lexical: 0.38.1
-  checksum: 994a1e3750f24c1650af77ec6151b101db8dce3f31975f25595058c586ed89d25ec7ec6172a9bf415d325e5e57fc5cdff24c4090dff931f01d3d9c5d06c28d48
+    lexical: 0.42.0
+  checksum: 466058035294e6ed92d17d1829f33653f29bd34d70678d53deb90665dc25b9362b3240ea21ad529e3140c8f7875b06794d3f5924c2bcaa56d19313f7f55fb95b
   languageName: node
   linkType: hard
 
@@ -9161,7 +9161,7 @@ __metadata:
     "@babel/preset-env": "*"
     "@babel/preset-typescript": ^7.21.5
     "@lexical/clipboard": 0.38.1
-    "@lexical/headless": 0.38.1
+    "@lexical/headless": 0.42.0
     "@lexical/link": 0.38.1
     "@lexical/list": 0.38.1
     "@lexical/react": 0.38.1
@@ -20697,6 +20697,13 @@ __metadata:
   version: 0.38.1
   resolution: "lexical@npm:0.38.1"
   checksum: af080ba2445d1fde08ad75530b969e1311ec146f4fec1e4ceaf5e8e6ef6afde85a8c8f4cb0c25756c0331b78b0b2549fc988ed9d6f6c5d1afd2cf59c85a6bac4
+  languageName: node
+  linkType: hard
+
+"lexical@npm:0.42.0":
+  version: 0.42.0
+  resolution: "lexical@npm:0.42.0"
+  checksum: 48c4b5c032d3e5c45fe04a1dc39d58181f72b9a4259596c4e1fa5d24713a7d59588fefe8169860bde9fbc13c90bf22f4cd6f3376f15c45a9fdcdff99e7e54264
   languageName: node
   linkType: hard
 
