@@ -113,7 +113,7 @@
     "@lexical/link": "0.38.1",
     "@lexical/list": "0.38.1",
     "@lexical/react": "0.38.1",
-    "@lexical/rich-text": "0.38.1",
+    "@lexical/rich-text": "0.42.0",
     "@lexical/utils": "0.38.1",
     "@radix-ui/react-slot": "^1.0.1",
     "@react-pdf/renderer": "^4.3.0",
