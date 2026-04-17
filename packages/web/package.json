@@ -55,7 +55,7 @@
     "@standardnotes/titanium-theme": "^1.4.7",
     "@standardnotes/toast": "workspace:*",
     "@standardnotes/ui-services": "workspace:^",
-    "@types/jest": "^29.2.4",
+    "@types/jest": "^30.0.0",
     "@types/react": "^18.2.39",
     "@types/react-dom": "^18.2.17",
     "@types/wicg-file-system-access": "^2023.10.4",
